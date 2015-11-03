@@ -24,4 +24,7 @@ require("ggplot2")
 ###Year vs Count for all age groups
 ![YearVCount](../YearVCount.jpg)
 
+##CrossTab
+###Year vs Age
+![YearVAge](../YearVAge.jpg)
 
