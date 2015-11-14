@@ -28,3 +28,7 @@ require("ggplot2")
 ###Year vs Age
 ![YearVAge](../YearVAge.jpg)
 
+##Blending Data
+###Count of Babies born vs Growth rate of Disposible Income (Joined on Year)
+![BlendingData](../BlendingData.jpg)
+
